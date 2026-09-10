@@ -34,7 +34,6 @@ The project uses **1,000 e-commerce transactions** and demonstrates data cleanin
 
 **Power BI | Power Query | DAX | Microsoft Excel**
 
-### Dataset Assumptions
 
 ## Dataset Used
 - <a href="https://github.com/anki1908/E-Commerce-Sales-Profitability-Dashboard/blob/main/e-commerce.pbit"> Dataset view </a>
@@ -49,6 +48,7 @@ The project uses **1,000 e-commerce transactions** and demonstrates data cleanin
 <img width="1428" height="811" alt="3" src="https://github.com/user-attachments/assets/785651e4-6ae2-42cb-a92d-9694f7ade1e0" />
 
 
+### Dataset Assumptions
 
 
 The dataset is a simulated e-commerce dataset created for portfolio and learning purposes. Tax is calculated using an assumed **18% GST rate**, while profit is estimated using category-based profit margins because actual product cost data is not available.
